@@ -65,24 +65,34 @@ Assignment Components ->
 
 3. Install Dependencies:
 
-            pip install -r requirements.txt
+          pip install -r requirements.txt
 
-    4. Prepare Dataset:
+4. Prepare Dataset:
 
-        Place your image dataset in the dataset/dataset_full directory.
+     Access dataset here...
+       https://drive.google.com/file/d/1lWgKokYUrD5PPMO3tCy-yMN2ytaSnjTV/view?usp=sharing
 
-        Ensure the dataset contains subdirectories for each class/category.
+     Place your image dataset in the dataset/dataset_full directory.
 
-    5. Run the train_and_save_model.py script.
+     Ensure the dataset contains subdirectories for each class/category.
 
-        The file Includes code for feature extraction, model training and saving the model for deployment.
+   After all the directory setup it should look like this.
 
-    6. Launch the Flask web application by running the app.py script.        
+   ![Screenshot 2024-06-09 160246](https://github.com/Patrick-1324/Bombay-Software-company-Assignement/assets/59449931/a21ba3b1-e634-4618-927e-b91bdf3a86d9)
 
-        Open the terminal, Click on the Link created.
 
-    7. Upload Images for Classification:
+6. Run the train_and_save_model.py script.
 
-        Visit the web application in your browser and upload images for classification.
+     The file Includes code for feature extraction, model training and saving the model for deployment.
 
+7. Launch the Flask web application by running the app.py script.        
+
+     Open the terminal, Click on the Link created.
+
+8. Upload Images for Classification:
+
+     Visit the web application in your browser and upload images for classification.
+
+## Output 
+![Screenshot 2024-06-09 175533](https://github.com/Patrick-1324/Bombay-Software-company-Assignement/assets/59449931/c4fc633a-c4eb-427d-bca4-8e924cd3ce36)
 
